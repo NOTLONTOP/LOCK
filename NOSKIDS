@@ -1,2 +1,0 @@
-game.Players.LocalPlayer:Kick("Sorry this aimlock was closed if you used this aimlock use the dhm script")
-end
